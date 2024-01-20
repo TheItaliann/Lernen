@@ -18,8 +18,6 @@ Getting Started
         Install the necessary development environment for your microcontroller (Raspbarry pi).
         Upload the provided firmware (if available) or write your own code to handle button inputs and control the LEDs.
 
-    Power On:
-        Power the device using an appropriate power source (e.g., batteries or USB power).
 
 Usage
 
