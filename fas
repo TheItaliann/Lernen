@@ -1,0 +1,2 @@
+/home/emanu/servo.py:6: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(servoPIN, GPIO.OUT)
